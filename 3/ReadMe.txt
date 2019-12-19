@@ -1,0 +1,1 @@
+An already installed library is linked to an executable created from one CPP file.

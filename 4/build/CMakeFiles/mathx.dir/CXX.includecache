@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/mathx.hpp
+
+/home/admin1/myWorkSpace/concepts/cMake/mohinipande/2/src/mathx.cpp
+mathx.hpp
+/home/admin1/myWorkSpace/concepts/cMake/mohinipande/2/src/mathx.hpp
+

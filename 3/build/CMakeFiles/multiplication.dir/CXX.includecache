@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/admin1/myWorkSpace/concepts/cMake/mohinipande/2/src/main.cpp
+iostream
+-
+mathx.hpp
+/home/admin1/myWorkSpace/concepts/cMake/mohinipande/2/src/mathx.hpp
+
+/usr/lib/mathx.hpp
+

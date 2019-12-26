@@ -1,3 +1,0 @@
-/home/admin1/myWorkSpace/concepts/cMake/mohinipande/2/build/CMakeFiles/edit_cache.dir
-/home/admin1/myWorkSpace/concepts/cMake/mohinipande/2/build/CMakeFiles/multiplication.dir
-/home/admin1/myWorkSpace/concepts/cMake/mohinipande/2/build/CMakeFiles/rebuild_cache.dir

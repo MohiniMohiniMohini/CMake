@@ -10,7 +10,7 @@ int main()
     cin >> a;
     cin >> b;
 
-    math mathMulti;
+    mathx mathMulti;
 
     cout<<"Multiplication is: " << a << "*" << b << " = " << mathMulti.multiplication(a,b) << endl;
 

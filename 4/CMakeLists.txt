@@ -14,10 +14,4 @@ install(TARGETS mathx DESTINATION src)
 file(GLOB SOURCES "src/main.cpp")
 add_executable(multiplication ${SOURCES})
 target_link_libraries(multiplication PUBLIC mathx)
-#install(FILES ${BUILD_DIR}/build/libmathx.so DESTINATION ${BUILD_DIR}/src/)
-message("after Install")
-#
 
-
-
-#

@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/multiplication.dir/src/main.cpp.o  -o multiplication -rdynamic libmathx.so -Wl,-rpath,/home/admin1/myWorkSpace/concepts/cMake/mohinipande/2/build 

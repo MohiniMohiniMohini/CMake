@@ -1,9 +1,9 @@
 
 
-class math
+class mathx
 {
     public:
 
-    math();
+    mathx();
     int multiplication(int a, int b);
 };

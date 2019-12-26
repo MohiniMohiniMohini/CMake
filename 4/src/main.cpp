@@ -12,7 +12,7 @@ int main()
     cout << "Enter second number for multiplication: " << endl;
     cin >> b;
 
-    math mathMulti;
+    mathx mathMulti;
 
     cout<<"Multiplication is: " << a << "*" << b << " = " << mathMulti.multiplication(a,b) << endl;
 

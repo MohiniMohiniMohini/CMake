@@ -1,8 +1,6 @@
 cmake_minimum_required(VERSION 3.2)
 
 project(multiplication)
-SET(BUILD_DIR ${CMAKE_CURRENT_SOURCE_DIR})
-SET(CMAKE_INSTALL_PREFIX ${BUILD_DIR})
 
 include_directories(inc)
 

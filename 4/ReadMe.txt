@@ -1,7 +1,7 @@
-A library is built from source and include files.
-This library is linked to an executable created from a single CPP file.
+A shared library is built from source and include files.
+This shared library is linked to an executable created from a single CPP file.
 
-The library is always generated before being linked to the executable making it easy to change.
+The shared library is always generated before being linked to the executable making it easy to change.
 
 Steps:
 1. mkdir build

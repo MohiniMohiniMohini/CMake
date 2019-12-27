@@ -1,6 +1,6 @@
-A complete and independent library directory with its CMake file generates a library.
+A complete and independent library directory with its CMake file generates a shared library.
 
-An executable which depends on the above directory first calls the CMake of the library and 
+An executable which depends on the above directory first calls the CMake of the shared library and 
 	then builds its own code to generate an executable.
 
 Steps to build:

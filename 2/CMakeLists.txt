@@ -8,4 +8,4 @@ file(GLOB LIB "src/mathx.cpp")
 add_library(mathx SHARED ${LIB})
 
 install(TARGETS mathx DESTINATION /usr/lib/mathx)
-install(DIRECTORY inc DESTINATION /usr/include/mathx)
+install(FILES inc/mathx.hpp DESTINATION /usr/include/mathx)

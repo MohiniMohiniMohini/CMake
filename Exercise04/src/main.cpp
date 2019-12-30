@@ -16,5 +16,5 @@ int main()
 
     cout<<"Multiplication is: " << a << "*" << b << " = " << mathMulti.multiplication(a,b) << endl;
 
-    return a*b;
+    return 0;
 }
